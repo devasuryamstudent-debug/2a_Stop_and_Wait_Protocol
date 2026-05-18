@@ -41,6 +41,8 @@ while True:
 
 ## clinent
 <img width="1767" height="341" alt="image" src="https://github.com/user-attachments/assets/9f9ca7be-5eea-40d9-bedf-14385d5fa57d" />
+
+
 ## server
 <img width="1854" height="227" alt="image" src="https://github.com/user-attachments/assets/b491fea5-e459-4bab-b0b7-0e9e6608ad0e" />
 
